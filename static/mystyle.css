@@ -1,0 +1,34 @@
+#first {
+	color :tomato;
+
+}
+body{
+	background-color: black ;
+}
+h1{
+	color : pink ;
+	text-align: center;
+	/*border:solid;
+	padding: 30px;
+	margin: 10px;
+*/
+}
+
+h6{
+	color:white;
+	size:60px;
+}
+p {
+	color : red ;
+	text-align: center;
+	border:solid;
+	padding: 30px;
+	margin: 10px;
+}
+h2{
+	color : blue ;
+	text-align: center;
+	border:solid;
+	padding: 30px;
+	margin: 10px;
+}
